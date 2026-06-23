@@ -6,7 +6,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
 ![Flask](https://img.shields.io/badge/Flask-Dashboard-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Working-brightgreen)
-
+...
 ---
 ;'.
 ...
