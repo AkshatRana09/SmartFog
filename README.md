@@ -9,7 +9,7 @@
 
 ...
 ## The Problem
-
+DASD
 Mountain highways in Himachal Pradesh — especially NH-503 (Dharamshala–Pathankot) — face severe fog conditions during winters and monsoons. Drivers have no warning before entering a dense fog zone, leading to frequent accidents on blind turns and valley stretches.
 
 ## The Solution
