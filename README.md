@@ -1,4 +1,4 @@
-,# SmartFog — Real-Time Fog Detection System for Himalayan Highways
+# SmartFog — Real-Time Fog Detection System for Himalayan Highways
 
 > Built for NH-503 Dharamshala–Pathankot Highway, Himachal Pradesh
 
@@ -7,7 +7,7 @@
 ![Flask](https://img.shields.io/badge/Flask-Dashboard-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Working-brightgreen)
 
-...
+
 ## The Problem
 DASD
 Mountain highways in Himachal Pradesh — especially NH-503 (Dharamshala–Pathankot) — face severe fog conditions during winters and monsoons. Drivers have no warning before entering a dense fog zone, leading to frequent accidents on blind turns and valley stretches.
