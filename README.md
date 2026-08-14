@@ -1,4 +1,4 @@
-# SmartFog — Real-Time Fog Detection System for Himalayan Highways
+jk# SmartFog — Real-Time Fog Detection System for Himalayan Highways
 
 > Built for NH-503 Dharamshala–Pathankot Highway, Himachal Pradesh
 dsa
