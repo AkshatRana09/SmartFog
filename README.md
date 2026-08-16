@@ -1,7 +1,7 @@
 # SmartFog — Real-Time Fog Detection System for Himalayan Highways
 
 > Built for NH-503 Dharamshala–Pathankot Highway, Himachal Pradesh
-dsa
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
 ![Flask](https://img.shields.io/badge/Flask-Dashboard-lightgrey)
